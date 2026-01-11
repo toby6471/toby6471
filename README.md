@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello 🫡
+
+I'm Toby, a self-taught programmer and computer science student from germany.
+
+So far, I have the most experience in Java and Kotlin, but I like experimenting with many different tech stacks, depending on what suits my projects the best.
+
+Apart from programming, I love working out and watching formula 1.
+
+My biggest project yet is my own training app for both Android and IOS.
 
 <!--
 **toby6471/toby6471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
